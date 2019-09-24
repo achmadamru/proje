@@ -2,4 +2,5 @@ rencana konten amru spalsh master:
 - mendalami laravel
 - mendalami api
 - angular JS
+- mendalami struktur data
 - css
