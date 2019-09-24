@@ -1,2 +1,6 @@
 ini adalah kumpulan project achmad amru
-semua project akan saya upload disisnisehingga mudah di share
+list pemograman yang dikuasai
+- php
+- java
+- delphi
+- C
